@@ -246,7 +246,7 @@ def big_shoe_rebounds
       b[:shoe] <=> a[:shoe]
     end
   end
-  
+
   sort[0][:rebounds]
 
 end
